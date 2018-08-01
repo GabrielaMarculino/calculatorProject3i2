@@ -1,2 +1,14 @@
 /**/
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
+body{
+   background-color: #66b3ff;
+ 
+   font-family: 'Roboto Mono', monospace;
+}
+button,label{
+  margin-top:  10px;
+}
+h1{
+    text-align: center;
+}
